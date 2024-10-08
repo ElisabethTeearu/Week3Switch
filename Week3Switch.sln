@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3Switch", "Week3Switch\Week3Switch.csproj", "{D938C54A-FD7F-4BDA-BAC8-E9BE964BB717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3RemainderOperator", "Week3RemainderOperator\Week3RemainderOperator.csproj", "{9C792766-E633-4AF6-976E-728C25FB0C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D938C54A-FD7F-4BDA-BAC8-E9BE964BB717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D938C54A-FD7F-4BDA-BAC8-E9BE964BB717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D938C54A-FD7F-4BDA-BAC8-E9BE964BB717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D938C54A-FD7F-4BDA-BAC8-E9BE964BB717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C792766-E633-4AF6-976E-728C25FB0C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C792766-E633-4AF6-976E-728C25FB0C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C792766-E633-4AF6-976E-728C25FB0C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C792766-E633-4AF6-976E-728C25FB0C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D07D85D-4B2D-45D7-BADF-968B840EEDEC}
+	EndGlobalSection
+EndGlobal
